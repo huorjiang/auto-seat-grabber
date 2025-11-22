@@ -3,7 +3,7 @@
 一个用Python写的抢座工具，每天22:00准时抢最前排座位
 
 ## 运行截图（已成功跑通）
-![成功用Edge打开百度，证明脚本能正常控制浏览器](https://github.com/huorjiang/auto-seat-grabber/blob/main/你的图片名字.png)
+![成功用Edge打开百度，证明脚本能正常控制浏览器][(https://github.com/huorjiang/auto-seat-grabber/blob/main/你的图片名字.png)](https://github.com/huorjiang/auto-seat-grabber/blob/main/QQ20251122-160852.png?raw=true)
 
 ## 目前功能
 - 自动打开浏览器（已完成）
