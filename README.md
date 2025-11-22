@@ -1,3 +1,5 @@
+![成功跑通！10秒后自动打开百度](https://github.com/huorjiang/auto-seat-grabber/blob/main/123456.png)
+
 # 预科晚自习自动抢座脚本
 
 用Python写的抢座工具  
